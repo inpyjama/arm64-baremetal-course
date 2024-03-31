@@ -15,7 +15,7 @@ The code provided as part of this repository is ONLY for learning purposes!
     3. You should see a working vscode code environment
     4. Don't worry about the dependencies. Toolchains, headers, build-essentials, QEMU environment setup everything is setup for you `:)`
 2. Compile the bare-metal kernel for `Raspberry Pi-3b` for a particular assignment/lab-exercise:
-    1. Create a new folder e.g. `mkdir section-1-<name>`
+    1. Create a new folder e.g. `cd sample-assignment`
     2. Create necessary files and copy over the source code from the files attached in the course's assignment/lecture sections
     3. Once all the files are copied, your directory structure should contain - 
        1. Source - `.c` / `.S` files
